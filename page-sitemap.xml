@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://exoticvillas.in/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://exoticvillas.in/</loc>
 		<lastmod>2024-04-30T11:25:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/oasis-of-serenity/</loc>
-		<lastmod>2024-09-13T17:19:57+00:00</lastmod>
+		<loc>https://exoticvillas.in/chotsas-farmhouse/</loc>
+		<lastmod>2024-10-06T07:48:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/assagao-heritage/</loc>
-		<lastmod>2024-09-13T17:19:38+00:00</lastmod>
+		<loc>https://exoticvillas.in/assagao-heritage/</loc>
+		<lastmod>2024-10-06T07:48:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/chotsas-farmhouse/</loc>
-		<lastmod>2024-09-13T17:19:21+00:00</lastmod>
+		<loc>https://exoticvillas.in/oasis-of-serenity/</loc>
+		<lastmod>2024-10-06T07:48:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/packages/</loc>
+		<loc>https://exoticvillas.in/gallery/</loc>
+		<lastmod>2024-10-06T07:47:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://exoticvillas.in/packages/</loc>
 		<lastmod>2024-09-13T12:21:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://exoticvillas.in/contact/</loc>
 		<lastmod>2024-04-30T11:05:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gallery/</loc>
-		<lastmod>2023-09-02T05:29:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/assagao/</loc>
+		<loc>https://exoticvillas.in/assagao/</loc>
 		<lastmod>2023-04-19T09:04:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/book-now/</loc>
+		<loc>https://exoticvillas.in/book-now/</loc>
 		<lastmod>2022-10-21T09:58:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/regulation-policies/</loc>
+		<loc>https://exoticvillas.in/regulation-policies/</loc>
 		<lastmod>2022-10-20T17:00:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/oasis-of-serenity-gallery/</loc>
+		<loc>https://exoticvillas.in/oasis-of-serenity-gallery/</loc>
 		<lastmod>2022-10-20T17:00:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/chotsas-farmhouse-gallary/</loc>
+		<loc>https://exoticvillas.in/chotsas-farmhouse-gallary/</loc>
 		<lastmod>2022-10-20T16:52:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/assagao-gallary/</loc>
+		<loc>https://exoticvillas.in/assagao-gallary/</loc>
 		<lastmod>2022-10-20T16:35:01+00:00</lastmod>
 	</url>
 </urlset>

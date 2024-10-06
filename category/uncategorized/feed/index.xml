@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Exotic Villas</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://exoticvillas.in/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://exoticvillas.in/</link>
 	<description>Luxurious Exotic Villas</description>
 	<lastBuildDate>Thu, 20 Oct 2022 13:43:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/10/cropped-01-32x32.png</url>
+	<url>https://exoticvillas.in/wp-content/uploads/2022/10/cropped-01-32x32.png</url>
 	<title>Uncategorized &#8211; Exotic Villas</title>
-	<link>/</link>
+	<link>https://exoticvillas.in/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://exoticvillas.in/hello-world/</link>
+					<comments>https://exoticvillas.in/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[divyanshu@abcsteps.com]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 13:43:31 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://exoticvillas.in/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

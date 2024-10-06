@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://exoticvillas.in/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://exoticvillas.in/post-sitemap.xml</loc>
 		<lastmod>2022-10-20T13:43:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
-		<lastmod>2024-09-13T17:19:57+00:00</lastmod>
+		<loc>https://exoticvillas.in/page-sitemap.xml</loc>
+		<lastmod>2024-10-06T07:48:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://exoticvillas.in/category-sitemap.xml</loc>
 		<lastmod>2022-10-20T13:43:31+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

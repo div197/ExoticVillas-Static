@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/hello-world/</link>
+	<atom:link href="https://exoticvillas.in/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://exoticvillas.in/hello-world/</link>
 	<description>Luxurious Exotic Villas</description>
 	<lastBuildDate>Thu, 20 Oct 2022 13:43:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>https://exoticvillas.in/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 13:43:31 +0000</pubDate>
